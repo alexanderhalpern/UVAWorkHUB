@@ -1,0 +1,30 @@
+[
+  {
+    "domain": "www.gradescope.com",
+    "httpOnly": true,
+    "name": "_gradescope_session",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "SlVlMmVNS1RVUGJ1eWQyd2xsTjZHZkVqMVEwWjJkWlFOM3dqUzN6VUp6WkZjL1VUTXBzVll6Tm9MWm03aS8xWUtqMkdML2VMTTk4alk0UVZCY1VQZjFHKzJpa1E0Qm5WQ3o5MDFsc3Yxb3l0YzhlUVFubWprUmZPTHZROTdMSmZaMGk3OEpuMHZrOXFTK2dtWlo1a3pBT2pJRVZHREs1Ymt6QXRYSVRoQ29WR3RKN1AyeGdHcmRSZk5JK2VaNExUdHloWmt1U3VZaEJRRVE2TUZKTjZpbjBNeUJWbmRJM1N5bkp4Q0RBdnovZnZ2QlRTV2ZVWThYL3ZDMkN0d0tTR2JtWDZwb1hTZktaa2dSZERwWk9HY3h3bGJYL3RyVDIvTHFROHFZVVVUVGJJSVA4eHE0K0F1d3VtbkptYXp3THJqdW1VWExXMmFHdXJjTUJXVVlnQll5OHU3RGlIcytyRm1MTHppV2t0eFhrMVpqekpvSDR2c2Q1dWQ4ZFYwTGk0ZUl5ZVdyZ1pUaWRwNURJaVdGOXVRZ24rNGtUNm0vRVVzY1FJTVFtanQ2dnpQVDREcVZIUytxMEEzZFlySnp5bEJxMUNKTFhoWCt4d3hBS21UZTBrbk1LZTV5WUlyZDRRV1E3VVQwaVVGWUJYR2p4b01FamhlMnBhWUQvZTJkTVhrbndCcDg4U3Q3bi9Ma3Jua1pudktxSFBIU05jY3lkQUlCOStMeFppcjdBPS0tVStLY3g3UWpIMWg4Q25pN0RMbEcrdz09--84e50d688d1c2df5912fd81b866b9dc541efa8b1"
+  },
+  {
+    "domain": "www.gradescope.com",
+    "expiry": 1729084178,
+    "httpOnly": false,
+    "name": "remember_me",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "bWY5QnlROStjK3NyUHhRYWxtT0xRdz09LS11a0pZRmR1bS94ZVJqeXpzdUZvMTBnPT0%3D--d160ad0e0410a77f3ec2603a7edeed699c92bd40"
+  },
+  {
+    "domain": "www.gradescope.com",
+    "httpOnly": true,
+    "name": "signed_token",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "Y3BUNWZNMG81NytScmVTVnJQSTg2RjBhWTkySUIvZ3doVU5ESlM4NWpXbz0tLXBDNG1oNDkzeWp4Y2ZPWis3Tlo4WFE9PQ%3D%3D--47c430d60bfccc73846000b8dbe39842e4e16491"
+  }
+]
